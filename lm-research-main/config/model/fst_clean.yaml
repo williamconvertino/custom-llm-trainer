@@ -1,0 +1,9 @@
+defaults:
+  - _self_
+
+# Model Identity
+model_name: fst_clean
+model_class: lmr.models.fst_clean.FSTClean
+
+# FST Settings
+use_shared_embedding: true          # Use the same embedding matrix for f and phi

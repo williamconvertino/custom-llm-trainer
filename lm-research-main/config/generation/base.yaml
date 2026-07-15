@@ -1,0 +1,7 @@
+max_new_tokens: 100
+temperature: 0.8
+top_p: 0.9
+return_generation_only: true
+
+save_to_file: true
+output_dir: outputs/generations
