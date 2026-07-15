@@ -1,4 +1,4 @@
-# distributed-llm-trainer
+# custom-llm-trainer
 
 A lightweight research codebase for training, benchmarking, and generation with configurable language models.
 
