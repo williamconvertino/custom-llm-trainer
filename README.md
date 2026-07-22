@@ -1,4 +1,4 @@
-# custom-llm-trainer
+# LLM Trainer
 
 A lightweight research codebase for training, benchmarking, and generation with configurable language models.
 
